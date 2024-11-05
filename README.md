@@ -3,7 +3,7 @@
 ### Desarrollador de software | Apasionado por resolver problemas y contribuir a la sociedad
 
 
-![Banner](https://github.com/genewg/genewg/blob/main/assets/bannerew.png)
+![Banner](https://github.com/GeneWG/GeneWG/tree/main/Assets/bannerew.png)
 
 ---
 
@@ -16,7 +16,7 @@
 ---
 
 ## 🌟 Sobre mí
-- 🎓 Estudiante de grado superior DAM en IFP Innovación en Formación Profesional
+- 🎓 Grado Superior de DAM en IFP Innovación en Formación Profesional
 - 📜 Certificado en Análisis de Datos por Google
 - 🌍 Apasionada por los datos y su impacto positivo en la sociedad
 - 🎨 Intereses: Inteligencia Artificial (IA), Experiencia de Usuario (UX), Bases de Datos
@@ -26,11 +26,10 @@
 ## 📂 Proyectos
 
 ### 🚀 Proyectos propios
-- <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Análisis de Datos](https://github.com/GeneWG/MiPortfolio) - Mi propio portfolio donde encontrarás más información sobre mi.
+- <img src="https://github.com/GeneWG/GeneWG/tree/main/Assets/carpetitaverde.ico" width="16"> [Análisis de Datos](https://github.com/GeneWG/MiPortfolio) - Mi propio portfolio donde encontrarás más información sobre mi.
 
 ### 📜 Nakama
-- <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Proyecto final](https://github.com/AlejoxVargas/Nakama-Android-App) - Nakama es una app que te conecta con compañeros de juego afines a tus intereses. Crea un perfil con tus preferencias de juego, horario disponible y más. La app encuentra la pareja perfecta para ti, eliminando la dificultad de encontrar compañeros de juego que compartan tus intereses. Creada con Android Studio.
-- <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Próximo proyecto](#) - En proceso...
+- <img src="https://github.com/GeneWG/GeneWG/tree/main/Assets/carpetitaverde.ico" width="16"> [Proyecto final](https://github.com/AlejoxVargas/Nakama-Android-App) - Nakama es una app que te conecta con compañeros de juego afines a tus intereses. Crea un perfil con tus preferencias de juego, horario disponible y más. La app encuentra la pareja perfecta para ti, eliminando la dificultad de encontrar compañeros de juego que compartan tus intereses.
 
 ---
 
