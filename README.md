@@ -17,8 +17,8 @@
 
 ## 🌟 Sobre mí
 - 🎓 Grado Superior de DAM en IFP Innovación en Formación Profesional
-- 📜 Certificado en Análisis de Datos por Google
-- 🌍 Apasionada por los datos y su impacto positivo en la sociedad
+- 📜 
+- 🌍 Apa
 - 🎨 Intereses: Inteligencia Artificial (IA), Experiencia de Usuario (UX), Bases de Datos
 
 ---
