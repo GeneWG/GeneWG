@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Gene Witsman</h1>
 <h3 align="center">Apasionado Desarrollador de Software</h3>
 
-![Banner](https://github.com/GeneWG/Assets/bannerew.png)
+![Banner](Assets/bannerew.png)
 
 - 🔭 Ahora mismo estoy trabajando voluntariamente en [Petinder](https://petinder.online) como desarrollador
 
